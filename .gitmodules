@@ -1,0 +1,3 @@
+[submodule "error-docker"]
+	path = error-docker
+	url = https://github.com/ErgoSaniTasSpA/error-docker
